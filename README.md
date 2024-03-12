@@ -13,6 +13,7 @@ Hello! I'm a passionate student at Manchester University, exploring the fascinat
 ## My Highlights Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Magic&theme=tokyonight)](https://github.com/Caesar723/Magic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Birthday_gift_for_KaKa&theme=tokyonight)](https://github.com/Caesar723/Birthday_gift_for_KaKa)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=TheDayOfSagittarius3&theme=tokyonight)](https://github.com/Caesar723/TheDayOfSagittarius3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=MAZE_3D&theme=tokyonight)](https://github.com/Caesar723/MAZE_3D)
