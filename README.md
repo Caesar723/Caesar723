@@ -5,29 +5,30 @@ Hello! I'm a passionate student at Manchester University, exploring the fascinat
 ## About Me
 
 - 🎓 **Education:** Student at Manchester University
-- 🔭 **Currently Working On:** [Insert Your Current Project]
-- 🌱 **Learning:** [What You're Learning]
-- 💬 **Ask Me About:** [Topics You're Comfortable Discussing]
-- 📫 **How to Reach Me:** [Your Email]
-- 😄 **Pronouns:** [Your Pronouns]
-- ⚡ **Fun Fact:** [Interesting Fact About You]
+- 🔭 **Currently Working On:** Magic
+- 📫 **How to Reach Me:** caesar20040723@gmail.com
+
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caesar723&layout=compact&theme=tokyonight)
 
-## My Projects
+## My Highlights Projects
 
-Here are some highlights of my work:
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=TheDayOfSagittarius3&theme=tokyonight)](https://github.com/Caesar723/TheDayOfSagittarius3)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Magic&theme=tokyonight)](https://github.com/Caesar723/Magic)
 
-Want to see more? Check out my [repositories](https://github.com/Caesar723?tab=repositories)!
+
 
 ## Connect with Me
 
 - Email: `caesar20040723@gmail.com`
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caesar723&layout=compact&theme=tokyonight)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Caesar723/Caesar723/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Caesar723/Caesar723/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/Caesar723/Caesar723/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
