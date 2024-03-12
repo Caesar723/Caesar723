@@ -26,9 +26,4 @@ Hello! I'm a passionate student at Manchester University, exploring the fascinat
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caesar723&layout=compact&theme=tokyonight)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Caesar723/Caesar723/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Caesar723/Caesar723/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/Caesar723/Caesar723/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
+![](./profile-3d-contrib/profile-green-animate.svg)
