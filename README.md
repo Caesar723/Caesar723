@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Magic&theme=tokyonight)](https://github.com/Caesar723/Magic)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caesar723&layout=compact&theme=tokyonight)
