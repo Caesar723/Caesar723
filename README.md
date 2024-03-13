@@ -2,11 +2,18 @@
 
 Hello! I'm a passionate student at Manchester University, exploring the fascinating world of coding and technology. Here's a bit about me and my journey.
 
-## About Me
 
-- 🎓 **Education:** Student at Manchester University
-- 🔭 **Currently Working On:** Magic
-- 📫 **How to Reach Me:** caesar20040723@gmail.com
+
+## About Me
+<img align="right" src="https://github.com/Caesar723/Caesar723/assets/76422688/081e0f47-550b-4a28-a7b6-082f904a6980" alt="Your image alt text" width="300"/>
+
+🎓 **Education:** Student at Manchester University  
+🔭 **Currently Working On:** Magic  
+📫 **How to Reach Me:** caesar20040723@gmail.com  
+</br>
+</br>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caesar723&layout=compact&theme=tokyonight)
+</br>
 
   
 
@@ -24,5 +31,5 @@ Hello! I'm a passionate student at Manchester University, exploring the fascinat
 - Email: `caesar20040723@gmail.com`
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caesar723&layout=compact&theme=tokyonight)
+
 ![](./profile-3d-contrib/profile-night-view.svg)
