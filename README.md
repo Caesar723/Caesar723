@@ -18,12 +18,32 @@ Hello! I'm a passionate student at Manchester University, exploring the fascinat
   
 
 ## My Highlights Projects
+</br>
+</br>
+</br>
+<p align="center">
+<a href="https://github.com/Caesar723/Magic">
+  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Magic&theme=tokyonight" />
+</a>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Magic&theme=tokyonight)](https://github.com/Caesar723/Magic)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Birthday_gift_for_KaKa&theme=tokyonight)](https://github.com/Caesar723/Birthday_gift_for_KaKa)
+</br>
+</br>
+</br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=TheDayOfSagittarius3&theme=tokyonight)](https://github.com/Caesar723/TheDayOfSagittarius3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=MAZE_3D&theme=tokyonight)](https://github.com/Caesar723/MAZE_3D)
+<p align="center">
+<a href="https://github.com/Caesar723/Birthday_gift_for_KaKa" align="center">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Birthday_gift_for_KaKa&theme=tokyonight" />
+</a>
+<a href="https://github.com/Caesar723/TheDayOfSagittarius3" align="center">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=TheDayOfSagittarius3&theme=tokyonight" />
+</a>
+<a href="https://github.com/Caesar723/MAZE_3D" align="center">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=MAZE_3D&theme=tokyonight" />
+</a>
+</p>
+
+
 
 
 ## Connect with Me
