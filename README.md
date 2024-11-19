@@ -46,7 +46,12 @@ Hello! I'm a passionate student at Manchester University, exploring the fascinat
 
 
 
-
+## My Competition Projects
+<p align="center">
+<a href="https://github.com/Caesar723/Stop-Ghosting-Me" align="center">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Stop-Ghosting-Me&theme=tokyonight" />
+</a>
+</p>
 ## Connect with Me
 
 - Email: `caesar20040723@gmail.com`
