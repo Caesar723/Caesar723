@@ -39,9 +39,10 @@ Hello! I'm a passionate student at Manchester University, exploring the fascinat
 <a href="https://github.com/Caesar723/TheDayOfSagittarius3" align="center">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=TheDayOfSagittarius3&theme=tokyonight" />
 </a>
-<a href="https://github.com/Menma2021/Noddy" align="center">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Menma2021&repo=Noddy&theme=tokyonight" />
+<a href="https://github.com/Caesar723/MAZE_3D" align="center">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=MAZE_3D&theme=tokyonight" />
 </a>
+
 </p>
 
 
@@ -52,8 +53,8 @@ Hello! I'm a passionate student at Manchester University, exploring the fascinat
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Stop-Ghosting-Me&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Caesar723/Stop-Ghosting-Me" align="center">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Stop-Ghosting-Me&theme=tokyonight" />
+<a href="https://github.com/Menma2021/Noddy" align="center">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Menma2021&repo=Noddy&theme=tokyonight" />
 </a>
 </p>
 ## Connect with Me
