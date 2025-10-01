@@ -23,7 +23,7 @@ Hello! I'm a passionate student at Manchester University, exploring the fascinat
 </br>
 </br>
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=🔥+Magic+Card+Game+Project+🔥;Coolest+Repo+by+Caesar" />
+   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=🔥+Magic+Card+Game+Project+🔥;Coolest+Repo+by+Xuanpei" />
  </p>
 <p align="center">
   
