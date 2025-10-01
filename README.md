@@ -23,9 +23,13 @@ Hello! I'm a passionate student at Manchester University, exploring the fascinat
 </br>
 </br>
 <p align="center">
-<a href="https://github.com/Caesar723/Magic">
-  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Magic&theme=tokyonight" />
-</a>
+   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=🔥+Magic+Card+Game+Project+🔥;Coolest+Repo+by+Caesar" />
+ </p>
+<p align="center">
+  
+  <a href="https://github.com/Caesar723/Magic">
+    <img align="center" height=150 style="border-radius:15px; box-shadow: 0px 0px 15px #00f5d4;" src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Magic&theme=radical" />
+  </a>
 </p>
 
 
