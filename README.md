@@ -13,7 +13,7 @@ Hello! I'm a passionate student at Manchester University, exploring the fascinat
 [📄 My CV](https://caesar723.github.io/myCV/)
 </br>
 </br>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caesar723&layout=compact&theme=tokyonight)
+ ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Caesar723&layout=compact&theme=tokyonight)
 </br>
 
   
@@ -28,7 +28,7 @@ Hello! I'm a passionate student at Manchester University, exploring the fascinat
 <p align="center">
   
   <a href="https://github.com/Caesar723/Magic">
-    <img align="center" height=150 style="border-radius:15px; box-shadow: 0px 0px 15px #00f5d4;" src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Magic&theme=radical" />
+    <img align="center" height=150 style="border-radius:15px; box-shadow: 0px 0px 15px #00f5d4;" src="https://github-stats-extended.vercel.app/api/pin/?username=Caesar723&repo=Magic&theme=radical" />
   </a>
 </p>
 
@@ -39,13 +39,13 @@ Hello! I'm a passionate student at Manchester University, exploring the fascinat
 
 <p align="center">
 <a href="https://github.com/Caesar723/Birthday_gift_for_KaKa" align="center">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Birthday_gift_for_KaKa&theme=tokyonight" />
+  <img align="center"  src="https://github-stats-extended.vercel.app/api/pin/?username=Caesar723&repo=Birthday_gift_for_KaKa&theme=tokyonight" />
 </a>
 <a href="https://github.com/Caesar723/TheDayOfSagittarius3" align="center">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=TheDayOfSagittarius3&theme=tokyonight" />
+  <img align="center"  src="https://github-stats-extended.vercel.app/api/pin/?username=Caesar723&repo=TheDayOfSagittarius3&theme=tokyonight" />
 </a>
 <a href="https://github.com/Caesar723/MAZE_3D" align="center">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=MAZE_3D&theme=tokyonight" />
+  <img align="center"  src="https://github-stats-extended.vercel.app/api/pin/?username=Caesar723&repo=MAZE_3D&theme=tokyonight" />
 </a>
 
 </p>
@@ -55,11 +55,11 @@ Hello! I'm a passionate student at Manchester University, exploring the fascinat
 ## My Competition Projects
 <p align="center">
 <a href="https://github.com/Caesar723/Stop-Ghosting-Me" align="center">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Caesar723&repo=Stop-Ghosting-Me&theme=tokyonight" />
+  <img align="center"  src="https://github-stats-extended.vercel.app/api/pin/?username=Caesar723&repo=Stop-Ghosting-Me&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Menma2021/Noddy" align="center">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Menma2021&repo=Noddy&theme=tokyonight" />
+  <img align="center"  src="https://github-stats-extended.vercel.app/api/pin/?username=Menma2021&repo=Noddy&theme=tokyonight" />
 </a>
 </p>
 ## Connect with Me
