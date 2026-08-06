@@ -10,7 +10,7 @@ Hello! I'm a passionate student at Manchester University, exploring the fascinat
 🎓 **Education:** Student at Manchester University  
 🔭 **Currently Working On:** Magic  
 📫 **How to Reach Me:** caesar20040723@gmail.com  
-[📄 My CV](https://caesar723.github.io/myCV/)
+[📄 My CV](https://caesar723.github.io/)
 </br>
 </br>
  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Caesar723&layout=compact&theme=tokyonight)
